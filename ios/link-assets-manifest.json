@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/WinkyRough-Black.ttf",
+      "sha1": "d3a4da860ff489e3d5a93b7fb9806f49b4177345"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-BlackItalic.ttf",
+      "sha1": "a607b062c13c7475887eaecbd77799147e0b674d"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-Bold.ttf",
+      "sha1": "88b9cd15d4b8474b9a85b2e537e158b8580e234c"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-BoldItalic.ttf",
+      "sha1": "c8f2a0a9ede0871150fb264b8755aa84f5a0e0ae"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-ExtraBold.ttf",
+      "sha1": "a1284f178c4a179dac9bc0fdf6e2c9e02a1f1745"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-ExtraBoldItalic.ttf",
+      "sha1": "ed36b199c4fb4ce791ed64a067a14caafd22c10d"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-Italic.ttf",
+      "sha1": "c95c4269b8c1a6cc0aea3fe5c59c8fe196b2bec8"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-Light.ttf",
+      "sha1": "0f975770cfe0d1f666577580f0476474e66446c7"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-LightItalic.ttf",
+      "sha1": "51e41225821e7928da7340677fc94388a2a25a5d"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-Medium.ttf",
+      "sha1": "94693bc181c02ebbe72f6c1009c91ef4168666ec"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-MediumItalic.ttf",
+      "sha1": "c1fe01e7ef655c45ea35d3a7ee1d26e820fa69a0"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-Regular.ttf",
+      "sha1": "faafdea3b20167efc1e57802ae405b059d50f2ac"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-SemiBold.ttf",
+      "sha1": "baa2006dcb44ebc8152049fbec6748fb6011e560"
+    },
+    {
+      "path": "src/assets/fonts/WinkyRough-SemiBoldItalic.ttf",
+      "sha1": "f51911e25ec5de6a0eaa2455e4c07dfb24c0ae2a"
+    }
+  ]
+}
